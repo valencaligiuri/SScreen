@@ -11,8 +11,8 @@ Proyecto para transmitir la pantalla en red Local, utilizando Flask, OpenCV y ot
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/tu-repositorio.git
-    cd tu-repositorio
+    git clone https://github.com/valencaligiuri/SScreen.git
+    cd SScreen
     ```
 
 2. Crea un entorno virtual y actívalo:
