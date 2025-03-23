@@ -1,6 +1,6 @@
 # SScreen
 
-Proyecto para transmitir la pantalla utilizando Flask, OpenCV y otras bibliotecas.
+Proyecto para transmitir la pantalla en red Local, utilizando Flask, OpenCV y otras bibliotecas.
 
 ## Requisitos
 
