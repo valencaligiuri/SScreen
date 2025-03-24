@@ -26,6 +26,16 @@ Proyecto para transmitir la pantalla en red Local, utilizando Flask, OpenCV y ot
     python install.py
     ```
 
+**Nota para Windows:**
+
+Si tienes problemas al ejecutar los scripts debido a restricciones de seguridad, abre PowerShell como administrador y ejecuta el siguiente comando:
+
+```powershell
+Set-ExecutionPolicy RemoteSigned
+```
+
+Esto permitirá la ejecución de scripts locales firmados y scripts descargados de Internet.
+
 ## Uso
 
 Ejecuta el servidor:
